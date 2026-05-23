@@ -1,0 +1,12 @@
+Port: 21 | Service: ftp | Banner: No Banner
+Port: 22 | Service: ssh | Banner: SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.5
+Port: 25 | Service: smtp | Banner: 220 mail.example.com ESMTP Postfix
+Port: 53 | Service: domain | Banner: No Banner
+Port: 80 | Service: http | Banner: Apache/2.4.41 (Ubuntu)
+Port: 110 | Service: pop3 | Banner: +OK POP3 server ready
+Port: 139 | Service: netbios-ssn | Banner: No Banner
+Port: 143 | Service: imap2 | Banner: * OK IMAP4 ready
+Port: 443 | Service: https | Banner: nginx/1.18.0
+Port: 3306 | Service: mysql | Banner: 5.7.34 MySQL Community Server
+Port: 8080 | Service: http-proxy | Banner: Jetty Server
+
