@@ -1,1 +1,5 @@
-colorama
+# Core dependencies
+colorama>=0.4.6
+
+# Optional: For better output on Windows
+# No additional dependencies needed
